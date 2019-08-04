@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1564881765,
+	"version": 1564893211,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,13 +16,15 @@
 		"images/flagblue-sheet0.png",
 		"images/flagblue-sheet1.png",
 		"images/flagblue-sheet2.png",
+		"images/flagorange-sheet0.png",
+		"images/flagorange-sheet1.png",
+		"images/sprite-sheet0.png",
 		"images/flaggreen-sheet0.png",
 		"images/flaggreen-sheet1.png",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png"
+		"images/flagyellow-sheet0.png",
+		"images/flagyellow-sheet1.png",
+		"images/trump-sheet0.png",
+		"images/trump-sheet1.png",
+		"images/trump-sheet2.png"
 	]
 }

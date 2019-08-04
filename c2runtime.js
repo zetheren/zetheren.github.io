@@ -20529,5 +20529,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Button.prototype.acts.SetVisible,
 	cr.plugins_.Button.prototype.acts.SetFocus,
 	cr.plugins_.Sprite.prototype.acts.Destroy,
-	cr.plugins_.Touch.prototype.cnds.OnTouchObject
+	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
+	cr.system_object.prototype.acts.NextPrevLayout
 ];};
